@@ -167,10 +167,13 @@ border: solid 3px green;
     .img-container {
       flex-direction: column;
     }
-  }
     footer {
       color: black;
       font-size: 55px;
       text-align: center;
       height: 200px;
     }
+    .greeting {
+      text-align: center;
+    }
+  }
